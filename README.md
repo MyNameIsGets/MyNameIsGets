@@ -69,7 +69,7 @@
 
 |‎ ‎ ‎ ‎ Contacts‎ ‎ ‎ ‎ |
 | ----------|
-| <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎  <a href="https://www.instagram.com/getsai.ar/"> <img src="https://skillicons.dev/icons?i=instagram"/> </a> ‎ ‎ ‎ ‎  <a href="[https://instagram.com/xir.rence](https://discord.com/users/729473858179956859)"> <img src="https://skillicons.dev/icons?i=discord"/> </a> |
+| <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎  <a href="https://www.instagram.com/getsai.ar/"> <img src="https://www.instagram.com/getsai.ar/"/> </a> ‎ ‎ ‎ ‎  <a href="[https://instagram.com/xir.rence](https://discord.com/users/729473858179956859)"> <img src="https://skillicons.dev/icons?i=discord"/> </a> |
 
 </div>
 
