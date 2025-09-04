@@ -13,9 +13,13 @@
 <h1>Skills</h1>
 </div>
 <div align="Center">
-| Website | Programming |
+| Website | Programming Languages |
 | ------------- | ------------- |
-| <img src="https://skillicons.dev/icons?i=html,css,js,sass,py"/> | <img src="https://skillicons.dev/icons?i=c,cpp,java,mysql,bash,vscode,vscodium,sublime,github"/> |
+| <img src="https://skillicons.dev/icons?i=html,css,js,sass,py"/> | <img src="https://skillicons.dev/icons?i=c,cpp,java,mysql,bash"/> |
+
+| Tools & Editors |
+| ------------- |
+| <img src="https://skillicons.dev/icons?i=vscode,vscodium,sublime,github"/> |
 </div>
 <br>
 <br>
